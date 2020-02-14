@@ -1,5 +1,5 @@
 zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
-,39.9692378, -82.936864,Bexley,OH, Ohio,
+,39.9692378, -82.936864,Bexley,OH, Ohio,,,,,,Franklin,
 43001,40.08865,-82.61363,Alexandria,OH,Ohio,TRUE,,2810,34.9,39089,Licking,{'39089':100},Licking,39089,FALSE,FALSE,America/New_York
 43002,40.06333,-83.1739,Amlin,OH,Ohio,TRUE,,3744,872.4,39049,Franklin,{'39049':100},Franklin,39049,FALSE,FALSE,America/New_York
 43003,40.41034,-82.97538,Ashley,OH,Ohio,TRUE,,3005,33.2,39041,Delaware,"{'39041':74.7,'39117':25.3}",Delaware|Morrow,39041|39117,FALSE,FALSE,America/New_York
